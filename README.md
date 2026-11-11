@@ -3,13 +3,10 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-I'm a **Research Intern** at **Foundry Lab** and a **Computer Science & Engineering** student at the **International Islamic University Chittagong (IIUC)**. I am a Full-Stack & Frontend Developer passionate about building intelligent web applications, AI-integrated platforms, and real-time interactive systems.
+I'm a **Computer Science & Engineering** student at the **International Islamic University Chittagong (IIUC)**. I am a Full-Stack & Frontend Developer passionate about building intelligent web applications, AI-integrated platforms, and real-time interactive systems.
 
-- 🔬 **Current Role:** Research Intern at **Foundry Lab**
 - 🎓 **Education:** B.Sc. in Computer Science & Engineering (IIUC)
-- 🏆 **Achievements:** 2nd Best Project Award in *Software Development – I* for [NextGenNerds](https://github.com/Alvirwebd/SD-Project)
-- 📜 **Certifications:** AI+ Prompt Engineer Level 1™
-- 📬 **Get in Touch:** [saplaali56@gmail.com](mailto:saplaali56@gmail.com)
+- 📬 **Get in Touch:** [Send an Email](mailto:saplaali56@gmail.com) &bull; [Connect on LinkedIn](https://www.linkedin.com/in/alvir-shahriar-15bb1232a/)
 
 ---
 
@@ -27,7 +24,7 @@ I'm a **Research Intern** at **Foundry Lab** and a **Computer Science & Engineer
 ---
 
 ### 🌐 [NextGenNerds – Community Course Hub](https://github.com/Alvirwebd/SD-Project)
-> **Winner of 2nd Best Project Award** — An interactive platform designed for CS students with fluid animations and curated developer resources.
+> **An interactive platform designed for CS students featuring fluid animations and curated developer resources.**
 >
 > - 🛠️ **Stack:** Tailwind CSS, GSAP Animations, Vite, Netlify CI/CD
 > - 🔗 **[Live Demo](https://nextgennerds.netlify.app/)** | **[Source Code](https://github.com/Alvirwebd/SD-Project)**
@@ -82,10 +79,13 @@ I'm a **Research Intern** at **Foundry Lab** and a **Computer Science & Engineer
 ## 🔗 Connect with Me
 <p align="center">
   <a href="mailto:saplaali56@gmail.com">
-    <img src="https://img.shields.io/badge/Email-saplaali56%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin: 4px;"/>
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin: 4px;"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alvir-shahriar-15bb1232a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 4px;"/>
   </a>
   <a href="https://github.com/Alvirwebd" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Alvirwebd-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 4px;"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 4px;"/>
   </a>
 </p>
 
