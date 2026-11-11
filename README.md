@@ -1,0 +1,70 @@
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Alvir Shahriar</h1>
+
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+
+## 📌 About Me
+I'm a passionate **Computer Science & Engineering** student at the **International Islamic University Chittagong (IIUC)** and a **Frontend & Full-Stack Developer**. I love building modern, high-performance web applications, interactive 3D browser games, and exploring AI-driven workflows.
+
+- 🎓 **Education:** B.Sc. in Computer Science & Engineering (IIUC)
+- 🏆 **Achievements:** 2nd Best Project Award in *Software Development – I* for [NextGenNerds](https://github.com/Alvirwebd/SD-Project)
+- 📜 **Certifications:** AI+ Prompt Engineer Level 1™
+- 🚀 **Currently Building:** Full-stack web apps, WebRTC multiplayer experiences, and frontend platforms
+
+---
+
+## 📊 GitHub Stats & Streaks
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alvirwebd&show_icons=true&theme=tokyonight&hide_border=true" alt="Alvirwebd's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Alvirwebd&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Alvirwebd's GitHub Streak" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvirwebd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+> ### 💻 Programming Languages
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" />
+</p>
+
+> ### 🎨 Frontend Development
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" />
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="Three.js" width="48" height="48" style="margin: 4px;" />
+</p>
+
+> ### ⚙️ Backend & Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48" style="margin: 4px;" />
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" />
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="48" height="48" style="margin: 4px;" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" />
+</p>
+
+---
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 8px;"/>
+  </a>
+  <a href="https://github.com/Alvirwebd" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Github.svg" alt="GitHub" width="40" height="40" style="margin: 0 8px;"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/Alvirwebd">Alvir Shahriar</a></i>
+</p>
