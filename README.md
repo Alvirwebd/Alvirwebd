@@ -34,18 +34,14 @@ I'm a **Research Intern** at **Foundry Lab** and a **Computer Science & Engineer
 
 ---
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats & Streaks
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=Alvirwebd&theme=github-dark&mode=dark" alt="Alvirwebd's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=Alvirwebd&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Alvirwebd's GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alvirwebd&show_icons=true&theme=tokyonight&hide_border=true" alt="Alvirwebd's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Alvirwebd&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Alvirwebd's GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=Alvirwebd&theme=github-dark&mode=dark" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=Alvirwebd&theme=github-dark&mode=dark" alt="Alvir Shahriar's GitHub Trophies" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alvirwebd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
 </p>
 
 ---
