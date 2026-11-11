@@ -19,10 +19,10 @@ I'm a **Research Intern** at **Foundry Lab** and a **Computer Science & Engineer
 > **A full-stack e-learning ecosystem featuring AI tutoring, interactive quizzes, career roadmaps, real-time collaboration, and automated certification.**
 >
 > - 🤖 **AI Tutor & Quizzes:** Dynamic AI Tutor chat, AI quiz generation, and role-based career roadmaps via OpenRouter AI.
-> - ⚡ **Full-Stack MERN Architecture:** Built with React, Node.js, Express, MongoDB, and Socket.io for real-time notifications.
+> - ⚡ **Full-Stack MERN Architecture:** Built with React 18, Vite, Tailwind CSS, Node.js, Express, MongoDB, and Socket.io for real-time notifications.
 > - 💳 **Payments & Portals:** SSLCommerz gateway integration, multi-role dashboards (Student, Instructor, Admin), and verified certificates.
 > 
-> 👉 **[Explore EduLearn Repository ↗](https://github.com/Alvirwebd/EduLearn)**
+> 🔗 **[🌐 Live Demo](https://edu-learn-dpjj.vercel.app/)** | **[💻 Source Code](https://github.com/Alvirwebd/EduLearn)**
 
 ---
 
