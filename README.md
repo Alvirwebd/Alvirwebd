@@ -6,6 +6,7 @@
 I'm a **Computer Science & Engineering** student at the **International Islamic University Chittagong (IIUC)**. I am a Full-Stack & Frontend Developer passionate about building intelligent web applications, AI-integrated platforms, and real-time interactive systems.
 
 - 🎓 **Education:** B.Sc. in Computer Science & Engineering (IIUC)
+- 🌐 **Interactive 3D Portfolio:** [alvirwebd.github.io](https://alvirwebd.github.io/)
 - 📬 **Get in Touch:** [Send an Email](mailto:saplaali56@gmail.com) &bull; [Connect on LinkedIn](https://www.linkedin.com/in/alvir-shahriar-15bb1232a/)
 
 ---
